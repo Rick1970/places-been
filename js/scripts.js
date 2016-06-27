@@ -6,7 +6,7 @@ function Destination(country, state, city) {
   }
 
 Destination.prototype.combine = function() {
-  return this.countryName + "  " +  this.stateName + " " + this.cityName;
+  return this.countryName + ", " +  this.stateName + ", " + this.cityName;
 }
 
 
