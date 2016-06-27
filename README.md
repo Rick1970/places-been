@@ -17,10 +17,10 @@ Run in browser of your choice._
 ## Specifications
 | Behavior | Input Example | Output Example |
 | ------------- |:-------------:| -----:|
-|  Receive input number, and list all digits from zero to/including that number | 3 | 1, 2, 3
-|  Remove numbers that are divisible by 3, and replace with ping| 3 | 1, 2, ping
-|  Remove numbers that are divisible by 5, and replace with pong| 5 | 1, 2, 4, pong
-|  Remove numbers that are divisible by 15, and replace with ping-pong | 15 | ...,13, 14, ping-pong
+|  Create an object with multiple properties. | State | Oregon
+| Display the input in a clickable format. | click | Display stored items
+<!-- |  Remove numbers that are divisible by 5, and replace with pong| 5 | 1, 2, 4, pong
+|  Remove numbers that are divisible by 15, and replace with ping-pong | 15 | ...,13, 14, ping-pong -->
 
 
 ## Known Bugs
